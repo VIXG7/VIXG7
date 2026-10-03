@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy VICTOR 
 
-<!--
-**VIXG7/VIXG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Ciberseguridad
 
-Here are some ideas to get you started:
+🔐 Me interesa la ciberseguridad, redes, Linux y el desarrollo de herramientas de seguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- 🐍 Python
+- 🐧 Linux
+- 🌐 Networking
+- 🔐 Cybersecurity
+- 🐙 Git & GitHub
+
+## 🚀 Actualmente aprendiendo
+
+- Seguridad informática
+- Python aplicado a ciberseguridad
+- Linux
+- Redes y protocolos
+- OSINT
+- Desarrollo de herramientas de seguridad
+
+## 📂 Proyectos
+
+🔎 **OSINT Security Bot**  
+Bot educativo para realizar búsquedas de información pública y análisis OSINT de forma responsable.
+
+## 🎯 Objetivo
+
+Desarrollar mis habilidades técnicas y construir proyectos prácticos relacionados con la ciberseguridad.
+
+---
+
+📫 Contacto: Próximamente
