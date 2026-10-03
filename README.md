@@ -1,8 +1,17 @@
-# 👋 Hola, soy VICTOR 
+# 👋 Hola, soy VICTOR
 
-🎓 Estudiante de Ingeniería en Ciberseguridad
+🎓 Estudiante de Ingeniería de Ciberseguridad
 
-🔐 Me interesa la ciberseguridad, redes, Linux y el desarrollo de herramientas de seguridad.
+## 🛡️ Sobre mí
+
+Estoy aprendiendo y desarrollando proyectos relacionados con:
+
+- 🔐 Ciberseguridad
+- 🐍 Python
+- 🔎 OSINT
+- 🐧 Linux
+- 🌐 Redes
+- 🐙 Git y GitHub
 
 ## 🛠️ Tecnologías
 
@@ -11,25 +20,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📂 Proyecto destacado
 
-## 🚀 Actualmente aprendiendo
+### 🔎 OSINT Security Bot
 
-- Seguridad informática
+Herramienta educativa desarrollada en Python para comprobar la existencia de perfiles públicos a partir de un nombre de usuario.
+
+🔗 [Ver proyecto](https://github.com/VIXG7/osint-security-bot)
+
+## 📚 Actualmente aprendiendo
+
 - Python aplicado a ciberseguridad
 - Linux
-- Redes y protocolos
+- Redes
 - OSINT
-- Desarrollo de herramientas de seguridad
-
-## 📂 Proyectos
-
-🔎 **OSINT Security Bot**  
-Bot educativo para realizar búsquedas de información pública y análisis OSINT de forma responsable.
-
-## 🎯 Objetivo
-
-Desarrollar mis habilidades técnicas y construir proyectos prácticos relacionados con la ciberseguridad.
-
----
-
-📫 Contacto: Próximamente
+- Git y GitHub
